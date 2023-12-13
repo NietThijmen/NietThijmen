@@ -15,7 +15,7 @@ In my free time I experiment with technologies from gta5 modding (using [FiveM](
 ### about me:
 - 🌱 Currently loving the [TALL stack](https://tallstack.dev/)
 - 🔭 I’m working on my internship & fiveM projects like: [mtcV](https://github.com/morethancodenl)
-- 🌎 I have a website, where I post my projects & hopefully other things.
+- 🌎 I have a [website](https://www.rierink.dev), where I post my projects & hopefully other things.
 
 ## languages I use
 ![Lua](https://img.shields.io/badge/language-lua-flat?logo=lua)
