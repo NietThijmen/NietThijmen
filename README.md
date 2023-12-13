@@ -1,3 +1,8 @@
+# Hello there 👋
+I'm Thijmen, I'm a dutch developer from Gelderland (Netherlands) & My passion & love for computers led me down the rabbit hole of programming,
+In my free time I experiment with technologies from gta5 modding (using [FiveM](https://fivem.net/)) all the way to backend app development and hopefully sometimes application development using golang or other languages.
+
+
 # Stats & Me
 ![GitHub followers](https://img.shields.io/github/followers/nietthijmen)
 ![GitHub User's stars](https://img.shields.io/github/stars/morethancodenl?label=MTC%20stars)
@@ -10,6 +15,7 @@
 ### about me:
 - 🌱 Currently loving the [TALL stack](https://tallstack.dev/)
 - 🔭 I’m working on my internship & fiveM projects like: [mtcV](https://github.com/morethancodenl)
+- 🌎 I have a website, where I post my projects & hopefully other things.
 
 ## languages I use
 ![Lua](https://img.shields.io/badge/language-lua-flat?logo=lua)
