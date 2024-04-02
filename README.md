@@ -17,6 +17,8 @@ In my free time I experiment with technologies from gta5 modding (using [FiveM](
 ![Typescript](https://img.shields.io/badge/language-typescript-flat?logo=typescript)
 ![Javscript](https://img.shields.io/badge/language-javascript-flat?logo=javascript)
 ![PHP](https://img.shields.io/badge/language-PHP-flat?logo=php)
+![Golang](https://img.shields.io/badge/language-GO-flat?logo=go)
+
 
 
 ## Tools I use
