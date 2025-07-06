@@ -3,8 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/nietthijmen?label=My%20stars)
 
 # Hello there! 
-I'm Thijmen, I'm a dutch developer from Gelderland (Netherlands) & My passion & love for computers led me down the rabbit hole of programming,
-In my free time I experiment with technologies from gta5 modding (using [FiveM](https://fivem.net/)) all the way to backend app development and hopefully sometimes application development using golang or other languages.
+I'm Thijmen, an 18 year old Dutch developer working with Laravel.
 
 
 ## about me:
@@ -24,8 +23,5 @@ In my free time I experiment with technologies from gta5 modding (using [FiveM](
 ## Tools I use
 ![IDE](https://img.shields.io/badge/IDE-jetbrains-flat?logo=jetbrains)
 ![OS-mac](https://img.shields.io/badge/OS-macos-flat?logo=apple)
-![OS-windows](https://img.shields.io/badge/OS-windows-flat?logo=microsoft)
 ![VCS](https://img.shields.io/badge/VSC-git-flat?logo=github)
 ![Warp](https://img.shields.io/badge/Terminal-warp-flat?logo=warp)
-
-<a href="https://www.buymeacoffee.com/nietthijmen"><img src="https://img.buymeacoffee.com/button-api/?text=Support me&emoji=❤️&slug=nietthijmen&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
