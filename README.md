@@ -8,7 +8,7 @@ I'm Thijmen, an 18 year old Dutch developer working with Laravel.
 
 ## about me:
 - 🌱 Currently loving the [TALL stack](https://tallstack.dev/)
-- 🔭 I’m working on my internship & fiveM projects like: [mtcV](https://github.com/morethancodenl)
+- 🔭 Building open source stuff nobody asked for.
 - 🌎 I have a [website](https://www.rierink.dev), where I post my projects & hopefully other things.
 
 ## languages I use
