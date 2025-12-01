@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/nietthijmen?label=My%20stars)
 
 # Hello there! 
-I'm Thijmen, an 18 year old Dutch developer working with Laravel.
+I'm Thijmen, an 19 year old Dutch developer working with Laravel.
 
 
 ## about me:
