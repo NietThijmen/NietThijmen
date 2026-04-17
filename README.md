@@ -24,4 +24,4 @@ I'm Thijmen, an 19 year old Dutch developer working with Laravel.
 ![IDE](https://img.shields.io/badge/IDE-jetbrains-flat?logo=jetbrains)
 ![OS-mac](https://img.shields.io/badge/OS-macos-flat?logo=apple)
 ![VCS](https://img.shields.io/badge/VSC-git-flat?logo=github)
-![Warp](https://img.shields.io/badge/Terminal-warp-flat?logo=warp)
+![Warp](https://img.shields.io/badge/Terminal-ghostty-flat?logo=ghostty)
